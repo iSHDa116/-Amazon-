@@ -1,4 +1,4 @@
-<x-app-layput>
+<x-app-layout>
 
     <x-slot name="header">
         
@@ -13,9 +13,9 @@
                 <div class="p-6 bg-white border-b border-gray-200">
                     <h2 class="text-lg font-semibold mb-4">最近の購入</h2>
                     <!-- ここに最近の購入情報を表示 -->
-                    
+
                 </div>
             </div>
         </div>
 
-</x-app-layput>
+</x-app-layout>
